@@ -1,3 +1,5 @@
+package com.shamion;
+
 import twitter4j.Status;
 import twitter4j.TwitterStream;
 import twitter4j.TwitterStreamFactory;
